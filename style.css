@@ -1,0 +1,171 @@
+.back {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./back.jpg);
+    filter: brightness(86%);
+    position: static;  
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.h1 {
+    margin-top: 16px;
+    font-size: 46px;
+    color: orange;
+}
+.cla {
+    margin-top: 16px;
+    color: white;
+    text-decoration: none;
+    font-size: 33px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.cla:hover {
+    color: orange;
+    transition: 0.5s;
+}
+.ph{margin-top: 16px;
+    word-spacing: 30px;
+}
+header {
+    
+    margin-right: 46px;
+    margin-left: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+.searchi {
+    margin-top: 16px;
+    padding: 6px;
+    width: 190px;
+    background: transparent;
+    border-bottom: 1px solid orange;
+    border-top: 1px solid orange;
+    border-left: 1px solid orange;
+    border-radius: 5px 0px 0px 5px;
+    color: white;
+}
+.serb {
+    margin-left: -6px;
+    padding: 7.5px;
+    background-color: orange;
+    border: 0px;
+    border-radius: 0px 2px 2px 0px;
+    color: white;
+    width: 80px;
+}
+.webdesign {
+    margin-top: 150px;
+    width: 40%;
+    margin-left: 50px;
+}
+.weblor {
+    color: white;
+}
+.wh1 {
+    color: white;
+    font-size: 50px;
+}
+span {
+    color: orange;
+}
+.join {
+    margin-top: 10px;
+    padding: 9px;
+    width: 130px;
+    background-color: orange;
+    color: black;
+    border: 0;
+    border-radius: 6px;
+    transition: 0.5s;
+}
+.join:hover {
+     background-color: white;
+    transition: 0.5s;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+}
+.login {
+    margin-top: 70px;
+    margin-right: 50px;
+    width: 330px;
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 6px;
+}
+.lh1 {
+    text-align: center;
+    width: 80%;
+    color: rgb(255, 145, 0);
+    background-color: white;
+    margin-left: 35px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.ema {
+    margin-left: 20px;
+    width: 80%;
+    padding: 6px;
+    background: transparent;
+    border: 0px;
+    border-bottom: 1px solid orange;
+    color: white;
+    font-size: 17px;
+}
+.pass {
+    margin-left: 20px;
+    width: 80%;
+    padding: 6px;
+    background: transparent;
+    border: 0px;
+    border-bottom: 1px solid orange;
+    color: white;
+    font-size:  16px;
+}
+.logbutton {
+    margin-left: 30px;
+    width: 80%;
+    padding: 9px;
+    background-color: orange;
+    border: 0;
+    border-radius: 6px;
+    transition: 0.5s;
+    font-weight: bold;
+    font-size: 20px;
+}
+.logbutton:hover {
+    background-color: white;
+    transition: 0.5s;
+}
+.sign {
+    color: orange;
+    text-decoration: none;
+}
+h2 {
+    color: white;
+    text-align: center;
+} 
+h4 {
+    color: white;
+    text-align: center;
+}
+img {
+    height: 55px;
+    width: 55px;
+    border-radius: 100%;
+    transition: 0.4s;
+    
+}
+img:hover {
+    background-color: orange;
+    transition: 0.4s;
+}
+.images {
+    margin-left: 20px;
+    margin-bottom: 3px;
+    padding-left: 30px;
+}
